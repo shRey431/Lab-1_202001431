@@ -25,9 +25,10 @@ C. Librarian
 1. Straightforward and simple to use UI
 2. Features accessible according to the user profile
 3. Passwords stored in encrypted form
-4. System is compatible with different browsers
+4. Accessible only from the institute LAN
 5. Servers are easy to maintain and can handle large data.
 6. System is scalable
+7. System is compatible with different browsers 
 
 <br>
 
